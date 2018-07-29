@@ -1,0 +1,11 @@
+C:\Users\Bodden\Desktop\trabajo1\bin\Debug\netcoreapp2.1\trabajo1.deps.json
+C:\Users\Bodden\Desktop\trabajo1\bin\Debug\netcoreapp2.1\trabajo1.runtimeconfig.json
+C:\Users\Bodden\Desktop\trabajo1\bin\Debug\netcoreapp2.1\trabajo1.runtimeconfig.dev.json
+C:\Users\Bodden\Desktop\trabajo1\bin\Debug\netcoreapp2.1\trabajo1.dll
+C:\Users\Bodden\Desktop\trabajo1\bin\Debug\netcoreapp2.1\trabajo1.pdb
+C:\Users\Bodden\Desktop\trabajo1\obj\Debug\netcoreapp2.1\trabajo1.csprojAssemblyReference.cache
+C:\Users\Bodden\Desktop\trabajo1\obj\Debug\netcoreapp2.1\trabajo1.csproj.CoreCompileInputs.cache
+C:\Users\Bodden\Desktop\trabajo1\obj\Debug\netcoreapp2.1\trabajo1.AssemblyInfoInputs.cache
+C:\Users\Bodden\Desktop\trabajo1\obj\Debug\netcoreapp2.1\trabajo1.AssemblyInfo.cs
+C:\Users\Bodden\Desktop\trabajo1\obj\Debug\netcoreapp2.1\trabajo1.dll
+C:\Users\Bodden\Desktop\trabajo1\obj\Debug\netcoreapp2.1\trabajo1.pdb
